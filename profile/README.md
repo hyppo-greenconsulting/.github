@@ -1,1 +1,1 @@
-This is an unofficial project created for a work between the companies GreenConsulting and Hyppo
+This is an unofficial project created by working students for a work between the companies GreenConsulting and Hyppo
